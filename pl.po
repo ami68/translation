@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: 2022-06-14 20:31+0100\n"
-"Last-Translator: ami68&sq9 <sq9hhc@op.pl>\n"
+"Last-Translator: ami68&sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -14,6 +14,8 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 3.1\n"
 "X-Poedit-Basepath: .\n"
+					   
+									  
 
 msgid "\tRemote host:"
 msgstr "\tZdalny host:"
@@ -250,9 +252,9 @@ msgstr "%d Min"
 
 msgid "%d channel found"
 msgid_plural "%d channels found"
-msgstr[0] "Znaleziono kanał %d"
-msgstr[1] "%d znalezione kanały"
-msgstr[2] "%d znalezionych kanałów"
+msgstr[0] "znaleziono %d kanał"
+msgstr[1] "znaleziono %d kanały"
+msgstr[2] "znaleziono %d kanałów"
 
 msgid "%d hour"
 msgid_plural "%d hours"
@@ -283,7 +285,7 @@ msgstr[2] "%d sekund"
 
 msgid "%d wireless network found!"
 msgid_plural "%d wireless networks found!"
-msgstr[0] "Znaleziono %d sieci bezprzewodowe!"
+msgstr[0] "Znaleziono %d sieć bezprzewodową!"
 msgstr[1] "Znaleziono %d sieci bezprzewodowe!"
 msgstr[2] "Znaleziono %d sieci bezprzewodowych!"
 
@@ -319,9 +321,9 @@ msgstr "%s nie jest już używany. Powinien być usunięty?"
 
 msgid "%s updated package available"
 msgid_plural "%s updated packages available"
-msgstr[0] "%s zaktualizowano dostępne pakiety"
-msgstr[1] "%s zaktualizowane pakiety dostępne"
-msgstr[2] "%s zaktualizowane pakiety dostępne"
+msgstr[0] "%s zaktualizowany dostępny pakiet"
+msgstr[1] "%s zaktualizowane dostępne pakiety"
+msgstr[2] "%s zaktualizowanych dostępnych pakietów"
 
 msgid "%s%d min"
 msgstr "%s%d min"
@@ -606,6 +608,9 @@ msgstr "< Alternatywna skórka >"
 msgid "< Default >"
 msgstr "< Domyślna >"
 
+				 
+					
+
 msgid "<Current movielist location>"
 msgstr "<Bieżąca lokalizacja nagrań>"
 
@@ -798,7 +803,7 @@ msgid "About..."
 msgstr "Informacje..."
 
 msgid "Accept the current selection"
-msgstr "Akceptuj wybrane"
+msgstr "Zaakceptuj aktualny wybór"
 
 msgid "Accesspoint:"
 msgstr "Punkt dostępu:"
@@ -1231,10 +1236,10 @@ msgid "Animation Speed"
 msgstr "Prędkość animacji"
 
 msgid "Animation menu Configurer by Nikolasi"
-msgstr "Ustawienia animacji by Nikolasi"
+msgstr "Konfigurator menu animacji autorstwa Nikolasi"
 
 msgid "Animation menu config"
-msgstr "Ustawienia animacji"
+msgstr "Konfiguracja menu animacji"
 
 msgid "Animations"
 msgstr "Animacje"
@@ -1249,10 +1254,10 @@ msgid "Arabic"
 msgstr "Arabski"
 
 msgid "Are you ready to install \"%s\" ?"
-msgstr "Gotowy do instalacji \"%s\" ?"
+msgstr "Czy jesteś gotowy do instalacji \"%s\" ?"
 
 msgid "Are you ready to remove \"%s\" ?"
-msgstr "Gotowy do usunięcia \"%s\" ?"
+msgstr "Czy jesteś gotowy do usunięcia \"%s\" ?"
 
 msgid "Are you sure to remove this entry?"
 msgstr "Czy chcesz usunąć ten wpis?"
@@ -1291,10 +1296,10 @@ msgid "Are you sure you want to delete the EPG data from:\n"
 msgstr "Czy chcesz usunąć dane EPG z:\n"
 
 msgid "Are you sure you want to delete this log:\n"
-msgstr "Czy chcesz usunąć ten log: \n"
+msgstr "Czy chcesz usunąć ten log:\n"
 
 msgid "Are you sure you want to delete this:\n"
-msgstr "Czy chcesz usunąć ten:\n"
+msgstr "Czy chcesz to usunąć:\n"
 
 msgid ""
 "Are you sure you want to delete this:\n"
@@ -1386,7 +1391,7 @@ msgid "Aspect Ratio: "
 msgstr "Proporcje obrazu: "
 
 msgid "Aspect Ratio: n/a"
-msgstr "Proporcje obrazu: n/a"
+msgstr "Proporcje obrazu: nd."
 
 msgid "Aspect list..."
 msgstr "Lista rozdzielczości..."
@@ -1542,8 +1547,8 @@ msgid ""
 "Automatically put the TV in standby whenever the receiver goes into standby "
 "or deep standby."
 msgstr ""
-"Automatycznie przełącz TV do standby gdy tuner przechodzi do standby lub "
-"wyłączy się"
+"Automatycznie przełącz TV do standby, gdy tuner przechodzi do standby lub "
+"wyłączy się."
 
 msgid "Automatically start timeshift after"
 msgstr "Automatyczny start timeshiftu po"
@@ -1694,13 +1699,13 @@ msgid "Big PiP"
 msgstr "Duży PiP"
 
 msgid "Bitrate setup"
-msgstr "Bitrate Ustawienia"
+msgstr "Konfiguracja szybkości transmisji"
 
 msgid "Bitrate viewer"
 msgstr "Podgląd szybkości transmisji"
 
 msgid "Bitrate viewer setup"
-msgstr "Ustawienia podglądu szybkości transmisji"
+msgstr "Konfiguracja podglądu szybkości transmisji"
 
 msgid "Bitrate:"
 msgstr "Bitrate:"
@@ -1811,7 +1816,7 @@ msgid "Button setup"
 msgstr "Ustawienia przycisków"
 
 msgid "Button setup for"
-msgstr "Konfiguracja przycisków dla"
+msgstr "Ustawienia przycisków dla"
 
 msgid "ButtonSetup"
 msgstr "Ustawienia przycisków"
@@ -1995,6 +2000,9 @@ msgstr "Kaskada PiP"
 msgid "Center DVB subtitles"
 msgstr "Wyśrodkuj napisy DVB"
 
+				  
+						  
+
 msgid "Ch+ button"
 msgstr "Przycisk kanału+"
 
@@ -2075,7 +2083,7 @@ msgid "Channel Name"
 msgstr "Nazwa kanału"
 
 msgid "Channel Selection"
-msgstr "Ustawienia listy kanałów"
+msgstr "Wybór kanału"
 
 msgid "Channel down"
 msgstr "Kanał -"
@@ -9864,6 +9872,9 @@ msgstr "Pokaż nazwę emulatora"
 msgid "Show Source Info"
 msgstr "Pokaż źródło dekodowania"
 
+												   
+															   
+
 msgid "Show Stream Info"
 msgstr "Pokaż informacje o sygnale"
 
@@ -14880,7 +14891,7 @@ msgid "open nameserver configuration"
 msgstr "konfiguracja nazwy serwera"
 
 msgid "orbital_position"
-msgstr "pozycja_orbitalna"
+msgstr "pozycja orbitalna"
 
 msgid "original"
 msgstr "oryginalny"
@@ -14938,13 +14949,13 @@ msgid "popular culture/traditional arts"
 msgstr "popkultura/sztuka tradycyjna"
 
 msgid "posFrom"
-msgstr "pozycja Z"
+msgstr "pozycja od"
 
 msgid "posGoto"
-msgstr "pozycja Do"
+msgstr "pozycja do"
 
 msgid "positioner_select"
-msgstr "wybrany _pozycjoner"
+msgstr "wybór pozycjonera"
 
 msgid "pre-school children's program"
 msgstr "program dla przedszkolaków"
@@ -15151,7 +15162,7 @@ msgid "show mediaplayer on mainmenu"
 msgstr "pokaż odtwarzacz w menu głównym"
 
 msgid "show picons in service list"
-msgstr "pokaż picony na liście kanałów"
+msgstr "Pokaż picony na liście kanałów"
 
 msgid "show single EPG..."
 msgstr "pokaż pojedyncze EPG..."
@@ -15172,7 +15183,7 @@ msgid "simple"
 msgstr "prosty"
 
 msgid "single"
-msgstr "jeden"
+msgstr "pojedynczy"
 
 msgid "skins"
 msgstr "skórki"
