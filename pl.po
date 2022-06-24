@@ -2,8 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
-"PO-Revision-Date: 2022-06-14 20:31+0100\n"
-"Last-Translator: ami68&sq9 <https://zukon.pl>\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2022-06-25 01:09+0200\n"
+"Last-Translator: ami68 <http://pkteam.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
@@ -14,8 +15,6 @@ msgstr ""
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Generator: Poedit 3.1\n"
 "X-Poedit-Basepath: .\n"
-					   
-									  
 
 msgid "\tRemote host:"
 msgstr "\tZdalny host:"
@@ -607,9 +606,6 @@ msgstr "< Alternatywna skórka >"
 
 msgid "< Default >"
 msgstr "< Domyślna >"
-
-				 
-					
 
 msgid "<Current movielist location>"
 msgstr "<Bieżąca lokalizacja nagrań>"
@@ -1999,9 +1995,6 @@ msgstr "Kaskada PiP"
 
 msgid "Center DVB subtitles"
 msgstr "Wyśrodkuj napisy DVB"
-
-				  
-						  
 
 msgid "Ch+ button"
 msgstr "Przycisk kanału+"
@@ -9872,9 +9865,6 @@ msgstr "Pokaż nazwę emulatora"
 msgid "Show Source Info"
 msgstr "Pokaż źródło dekodowania"
 
-												   
-															   
-
 msgid "Show Stream Info"
 msgstr "Pokaż informacje o sygnale"
 
@@ -11521,7 +11511,7 @@ msgid ""
 "increases by 1 point size, and -1 decreases by 1 point size"
 msgstr ""
 "To pozwala zmienić rozmiar czcionki odpowiednio do wielkości skórki, tak "
-"więc 1 zwiększa rozmiar o 1 punkt, a -1 zmniejsza o 1 punkt"
+"więc 1 zwiększa rozmiar o 1 punkt, a -1 zmniejsza o 1 punkt."
 
 msgid "This allows you to change the number of rows shown."
 msgstr "To pozwala zmienić liczbę pokazywanych wierszy."
