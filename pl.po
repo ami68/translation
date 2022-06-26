@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-26 20:24+0200\n"
+"PO-Revision-Date: 2022-06-26 22:24+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -1307,7 +1307,7 @@ msgstr ""
 "Czy chcesz przywrócić\n"
 "następującą kopię zapasową:\n"
 "%s\n"
-"Dekoder uruchomi się ponownie po przywróceniu kopii zapasowej!"
+"Odbiornik uruchomi się ponownie po przywróceniu kopii zapasowej!"
 
 msgid ""
 "Are you sure you want to restore the backup?\n"
@@ -1506,7 +1506,7 @@ msgid "Automatic settings backup"
 msgstr "Automatyczne tworzenie kopii zapasowych ustawień"
 
 msgid "Automatically put the TV in standby whenever the receiver goes into standby or deep standby."
-msgstr "Automatycznie przełącz TV do standby, gdy tuner przechodzi do standby lub wyłączy się."
+msgstr "Automatycznie przełącz TV do standby, gdy odbiornik przechodzi do standby lub wyłączy się."
 
 msgid "Automatically start timeshift after"
 msgstr "Automatyczny start timeshiftu po"
@@ -2004,8 +2004,8 @@ msgid ""
 "Changes need a system restart to take effect.\n"
 "Restart your %s %s now?"
 msgstr ""
-"Zmiany wymagają ponownego uruchomienia dekodera.\n"
-"Uruchomić ponownie teraz %s %s?"
+"Zmiany wymagają ponownego uruchomienia systemu, aby zaczęły obowiązywać.\n"
+"Zrestartować teraz %s %s?"
 
 msgid "Channel"
 msgstr "Kanał"
@@ -3501,7 +3501,7 @@ msgid "Do you want to reboot your %s %s ?"
 msgstr "Chcesz uruchomić ponownie %s %s?"
 
 msgid "Do you want to reboot your receiver?"
-msgstr "Chcesz ponownie uruchomić dekoder?"
+msgstr "Chcesz zrestartować odbiornik?"
 
 msgid "Do you want to remove the package:\n"
 msgstr "Chcesz usunąć pakiet:\n"
@@ -3921,7 +3921,7 @@ msgid "Enabled"
 msgstr "Włączone"
 
 msgid "Enables a feature so that the receiver can decrypt streams (if the ECM data is included in the stream and a valid card is available)."
-msgstr "Włącza funkcję, dzięki czemu dekoder może odszyfrować strumienie (jeśli dane ECM są zawarte w strumieniu i dostępna jest ważna karta)."
+msgstr "Włącza funkcję, dzięki czemu odbiornik może odszyfrować strumienie (jeśli dane ECM są zawarte w strumieniu i dostępna jest ważna karta)."
 
 msgid "Encrypted: "
 msgstr "Szyfrowany: "
@@ -4166,7 +4166,7 @@ msgid "Expert"
 msgstr "Ekspert"
 
 msgid "Explore your Dreambox."
-msgstr "Menedżer plików tunera"
+msgstr "Menedżer plików odbiornika."
 
 msgid "Extended"
 msgstr "Rozszerzone"
@@ -6859,7 +6859,7 @@ msgid "Open bouquet list"
 msgstr "Otwórz listę bukietów"
 
 msgid "Open long"
-msgstr "Open (długo)"
+msgstr "Open - długie naciśnięcie"
 
 msgid "Open nameserver configuration"
 msgstr "Otwórz konfigurację serwera nazw"
@@ -7269,7 +7269,7 @@ msgid "Please connect your %s %s to the internet"
 msgstr "Podłącz %s %s do internetu"
 
 msgid "Please connect your receiver to the internet"
-msgstr "Podłącz dekoder do internetu"
+msgstr "Podłącz odbiornik do internetu"
 
 msgid "Please do not change any values unless you know what you are doing!"
 msgstr "Proszę nie zmieniać żadnych wartości, chyba że wiesz, co robisz!"
@@ -8798,7 +8798,7 @@ msgstr ""
 "Wybierz satelitę podłączonego do portu D przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
 
 msgid "Select the satellite you want to configure. Once that satellite is configured you can select and configure other satellites that will be accessed using this same tuner."
-msgstr "Wybierz satelitę, którego chcesz skonfigurować. Po skonfigurowaniu tego satelity możesz wybrać i skonfigurować inne satelity, które będą dostępne za pomocą tego samego tunera."
+msgstr "Wybierz satelitę, którego chcesz skonfigurować. Po skonfigurowaniu tego satelity możesz wybrać i skonfigurować inne satelity, które będą dostępne za pomocą tego samego odbiornika."
 
 msgid "Select the satellite your dish receives from. If you are unsure select 'automatic' and the receiver will attempt to determine this for you."
 msgstr "Wybierz satelitę, z którego odbierany jest sygnał. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie."
@@ -9111,7 +9111,7 @@ msgid ""
 "This is the case if you have in your router a port forwarded to the STB."
 msgstr ""
 "Zdecydowanie zaleca się ustawienie hasła, jeśli dekoder jest połączony z internetem. \n"
-"Dzieje się tak, jeśli masz w routerze port przekierowany do STB."
+"Dzieje się tak, jeśli masz w routerze port przekierowany do dekodera."
 
 msgid "Settings"
 msgstr "Ustawienia"
@@ -10679,15 +10679,15 @@ msgid ""
 "Thank you for using the wizard. Your receiver is now ready for use.\n"
 "Please press OK to continue."
 msgstr ""
-"Dziękujemy za skorzystanie z kreatora. Twój dekoder jest teraz gotowy do użycia.\n"
+"Dziękujemy za skorzystanie z kreatora. Twój odbiornik jest teraz gotowy do użycia.\n"
 "Naciśnij OK, aby kontynuować."
 
 msgid ""
 "Thank you for using the wizard. Your receiver is now ready for use.\n"
 "Press OK to start using your receiver."
 msgstr ""
-"Dziękujemy za skorzystanie z kreatora. Twój dekoder jest teraz gotowy do użycia.\n"
-"Naciśnij OK, aby rozpocząć korzystanie z dekodera."
+"Dziękujemy za skorzystanie z kreatora. Twój odbiornik jest teraz gotowy do użycia.\n"
+"Naciśnij OK, aby rozpocząć korzystanie z odbiornika."
 
 msgid "The %s %s reads the stored EPG data every (hours)."
 msgstr "%s %s odczytuje zapisane dane EPG co (godzin)."
@@ -10835,7 +10835,7 @@ msgid ""
 "The new image will be installed and auto booted in few minutes.\n"
 "\n"
 msgstr ""
-"Nowy obraz zostanie zainstalowany, po czym dekoder uruchomi się automatycznie.\n"
+"Nowy obraz zostanie zainstalowany, a odbiornik automatycznie uruchomiony w ciągu kilku minut.\n"
 "\n"
 
 msgid "The news file can not be analyzed, please be patient and try again later"
@@ -11692,7 +11692,7 @@ msgid "Update Setup"
 msgstr "Ustawienia aktualizacji"
 
 msgid "Update and ask to reboot"
-msgstr "Aktualizacja odbiornika z potwierdzeniem ponownego uruchomienia"
+msgstr "Aktualizacja i prośba o ponowne uruchomienie"
 
 msgid "Update channel list only"
 msgstr "Aktualizacja tylko listy kanałów"
@@ -11728,7 +11728,7 @@ msgid "Upgradable Packages"
 msgstr "Aktualizowane pakiety"
 
 msgid "Upgrade and reboot system"
-msgstr "Aktualizuj i uruchom automatycznie odbiornik"
+msgstr "Aktualizacja i ponowne uruchomienie systemu"
 
 msgid "Upgrade finished."
 msgstr "Aktualizacja zakończona."
@@ -12374,7 +12374,7 @@ msgid ""
 msgstr ""
 "Witamy.\n"
 "\n"
-"Jeśli chcesz podłączyć dekoder do internetu, ten kreator poprowadzi Cię przez podstawową konfigurację sieci twojego dekodera.\n"
+"Jeśli chcesz podłączyć odbiornik do internetu, ten kreator poprowadzi Cię przez podstawową konfigurację sieci twojego odbiornika.\n"
 "\n"
 "Naciśnij OK, aby rozpocząć konfigurację sieci"
 
@@ -12397,7 +12397,7 @@ msgid ""
 msgstr ""
 "Witamy.\n"
 "\n"
-"Ten kreator poprowadzi Cię przez podstawową konfigurację dekodera.\n"
+"Ten kreator poprowadzi Cię przez podstawową konfigurację odbiornik.\n"
 "Naciśnij przycisk OK na pilocie, aby przejść do następnego kroku."
 
 msgid "Welcome..."
@@ -12428,7 +12428,7 @@ msgid "When enabled the online checker will also check for experimental versions
 msgstr "Po włączeniu kontroler online sprawdzi także wersje eksperymentalne"
 
 msgid "When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV."
-msgstr "Po włączeniu dane AIT będą zawarte w strumieniach http. Dzięki temu dekoder klienta może korzystać z HbbTV."
+msgstr "Po włączeniu dane AIT będą zawarte w strumieniach http. Dzięki temu odbiornik klienta może korzystać z HbbTV."
 
 msgid "When enabled, a popup message will be shown when a movie has finished and the next one will start."
 msgstr "Po włączeniu okno wiadomości pojawi się gdy film się skończy a następny rozpocznie."
@@ -12520,16 +12520,16 @@ msgid "When enabled, the original line breaks will be removed from the teletext 
 msgstr "Po włączeniu oryginalne znaki końca linii zostaną usunięte z napisów teletekstu."
 
 msgid "When enabled, the receiver will automatically use the audio track which you selected before."
-msgstr "Po włączeniu dekoder automatycznie użyje ścieżki audio, którą wybrałeś wcześniej."
+msgstr "Po włączeniu odbiornik automatycznie użyje ścieżki audio, którą wybrałeś wcześniej."
 
 msgid "When enabled, the receiver will automatically use the subtitles which you selected before."
-msgstr "Po włączeniu dekoder automatycznie użyje napisów, które wybrałeś wcześniej."
+msgstr "Po włączeniu odbiornik automatycznie użyje napisów, które wybrałeś wcześniej."
 
 msgid "When enabled, the receiver will select an AC3 track (when available)."
-msgstr "Po włączeniu dekoder wybierze ścieżkę AC3 (jeśli jest dostępna)."
+msgstr "Po włączeniu odbiornik wybierze ścieżkę AC3 (jeśli jest dostępna)."
 
 msgid "When enabled, the receiver will select an AC3+ track (when available)."
-msgstr "Po włączeniu dekoder wybierze ścieżkę AC3+ (jeśli jest dostępna)."
+msgstr "Po włączeniu odbiornik wybierze ścieżkę AC3+ (jeśli jest dostępna)."
 
 msgid "When enabled, timeshift starts automatically in background after the specified time."
 msgstr "Po włączeniu timeshift uruchamia się automatycznie w tle po określonym czasie."
@@ -12538,7 +12538,7 @@ msgid "When enabled, use DHCP for the IP configuration."
 msgstr "Po włączeniu używa DHCP do konfiguracji IP."
 
 msgid "When enabled, your receiver will detect activity on the VCR SCART input."
-msgstr "Po włączeniu dekoder automatycznie wykryje urządzenia na wejściu VCR SCART."
+msgstr "Po włączeniu odbiornik automatycznie wykryje urządzenia na wejściu VCR SCART."
 
 msgid "When nonzero, a recording will start earlier than the starting time indicated by the EPG."
 msgstr "Gdy różne od 0 nagranie wystartuje wcześniej niż czas rozpoczęcia określony w EPG."
@@ -12556,7 +12556,7 @@ msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stre
 msgstr "Gdy obraz ma proporcje 4:3 wybierz opcję skalowania/rozciągania obrazu."
 
 msgid "When the receiver wakes from standby, it will send a command to the TVto bring it out of standby too."
-msgstr "Gdy tuner przechodzi do standby, wysyła taką samą komendę to TV."
+msgstr "Gdy odbiornik obudzi się ze stanu czuwania, wyśle ​​polecenie do TV, aby wyprowadzić go również ze stanu czuwania."
 
 msgid "When tuned to a service the system will normally scan the transponder for any changes and save them. Only set to 'yes' if you're absolutely sure of what you're doing."
 msgstr "Po dostrojeniu do usługi system zwykle skanuje transponder w poszukiwaniu wszelkich zmian i zapisuje je. Ustaw na \"tak\" tylko wtedy, gdy jesteś absolutnie pewien tego, co robisz."
@@ -12651,7 +12651,7 @@ msgid "Wizard"
 msgstr "Kreator"
 
 msgid "WizardActions"
-msgstr "Kreator"
+msgstr "Akcje kreatora"
 
 msgid "Workgroup Name"
 msgstr "Nazwa grupy"
@@ -12796,7 +12796,7 @@ msgstr ""
 "\"%s\"?"
 
 msgid "You are not running  Image. You must mount devices Your self."
-msgstr "Twoje oprogramowanie to nie  HYPERION. Musisz sobie radzić sam."
+msgstr "Twoje oprogramowanie to nie HYPERION. Musisz sobie radzić sam."
 
 msgid "You can cancel the installation."
 msgstr "Możesz anulować instalację."
@@ -12805,7 +12805,7 @@ msgid "You can cancel the removal."
 msgstr "Możesz anulować usunięcie."
 
 msgid "You can continue watching TV while this is running."
-msgstr "Możesz kontynuować oglądanie telewizji, gdy ta funkcja jest uruchomiona."
+msgstr "W tym czasie możesz oglądać telewizję."
 
 msgid "You can have the list sorted by time or alphanumerical."
 msgstr "Możesz mieć listę posortowaną według czasu lub alfanumerycznie."
@@ -12832,7 +12832,7 @@ msgid "You didn't select a channel to record from."
 msgstr "Nie wybrałeś kanału z którego chcesz nagrywać."
 
 msgid "You have chosen to backup your settings. Please press OK to start the backup now."
-msgstr "Wybrałeś kopię zapasową swoich ustawień. Proszę nacisnąć OK, aby rozpocząć tworzenie kopii zapasowej teraz."
+msgstr "Wybrałeś kopię zapasową swoich ustawień. Naciśnij OK, aby rozpocząć tworzenie kopii zapasowej."
 
 msgid "You have chosen to restore your settings. Enigma2 will restart after restore. Please press OK to start the restore now."
 msgstr "Wybrałeś przywrócenie swoich ustawień. Enigma2 zostanie zrestartowana po przywróceniu. Wciśnij OK aby rozpocząć."
@@ -12864,13 +12864,13 @@ msgid "You have to wait %s!"
 msgstr "Musisz poczekać na %s!"
 
 msgid "You must set at least one Command"
-msgstr "Musisz ustawić co najmniej jedno Polecenie "
+msgstr "Musisz ustawić co najmniej jedno polecenie "
 
 msgid "You remove softcams and iptv plugins here"
 msgstr "Tutaj możesz usunąć emulatory i pluginy iptv"
 
 msgid "You seem to be in timeshft, the service will briefly stop as timeshift stops."
-msgstr "Wydaje się, że timeshift nie działa usługa zostanie na chwilę zatrzymana."
+msgstr "Wygląda na to, że jesteś w timeshift, usługa zostanie na krótko zatrzymana po zatrzymaniu timeshift."
 
 msgid "You seem to be in timeshift!"
 msgstr "Timeshift jest uruchomiony!"
@@ -12879,7 +12879,7 @@ msgid "You seem to be in timeshift, Do you want to leave timeshift ?"
 msgstr "Timeshift jest uruchomiony! Czy chcesz go wyłączyć?"
 
 msgid "You seem to be in timeshift, Do you want to leave timeshift? Streams & IPTV not fully supported!"
-msgstr "Timeshift jest uruchomiony! Czy chcesz go wyłączyć? Stream & IPTV nie wspierane!"
+msgstr "Wygląda na to, że jesteś w timeshift, czy chcesz opuścić timeshift? Strumienie i IPTV nie są w pełni obsługiwane!"
 
 msgid "You system does not support ext4"
 msgstr "Twój system nie wspiera ext4"
@@ -12989,8 +12989,8 @@ msgid ""
 "Your %s %s will be restarted after the installation of the service\n"
 "Are you ready to install \"%s\" ?"
 msgstr ""
-"Twój %s %s zostanie uruchomiony ponownie po zainstalowaniu listy kanałów\n"
-"Gotów do instalacji %s ?"
+"Twój %s %s zostanie uruchomiony ponownie po instalacji listy kanałów\n"
+"Czy jesteś gotowy do zainstalowania %s ?"
 
 msgid ""
 "Your %s %s will be restarted after the removal of service\n"
@@ -13004,7 +13004,7 @@ msgid ""
 "Do you want to remove the service now ?"
 msgstr ""
 "Twój %s %s zostanie uruchomiony ponownie po usunięciu listy kanałów\n"
-"Czy chcesz usunąć teraz ?"
+"Czy chcesz teraz usunąć listę kanałów?"
 
 msgid "Your IP:"
 msgstr "Twoje IP:"
@@ -13042,16 +13042,16 @@ msgid "Your network configuration has been activated."
 msgstr "Konfiguracja sieci została aktywowana."
 
 msgid "Your network has finished restarting"
-msgstr "Sieć została restartowana"
+msgstr "Zakończono ponowne uruchamianie sieci"
 
 msgid "Your network is not working. Please try again."
 msgstr "Twoja sieć nie działa. Spróbuj ponownie."
 
 msgid "Your network is restarting, Please wait..."
-msgstr "Restart sieci, Proszę czekać..."
+msgstr "Trwa ponowne uruchamianie sieci, proszę czekać..."
 
 msgid "Your receiver does not have an internet connection"
-msgstr "Dekoder nie ma połączenia z internetem"
+msgstr "Odbiornik nie ma połączenia z internetem"
 
 msgid ""
 "Your receiver is now ready to use.\n"
@@ -13061,7 +13061,7 @@ msgid ""
 "Please press OK to continue.\n"
 "\n"
 msgstr ""
-"Twój dekoder jest gotowy do użycia.\n"
+"Twój odbiornik jest gotowy do użycia.\n"
 "\n"
 "Twoje połączenie internetowe działa.\n"
 "\n"
@@ -13128,10 +13128,10 @@ msgid "Zoom Off..."
 msgstr "Wyłącz powiększenie..."
 
 msgid "[Dish] tuned, closing..."
-msgstr "[Antena] ustawiam, zamykam..."
+msgstr "[Antena] dostrojona, zamykam..."
 
 msgid "[Dish] tuning failed"
-msgstr "[Antena] strojenie nie udane"
+msgstr "[Antena] nieudane strojenie"
 
 msgid "[TimeShift] Restarting Timeshift!"
 msgstr "[Timeshift] Restartowanie timeshift!"
@@ -13221,7 +13221,7 @@ msgid "any recordings"
 msgstr "jakiekolwiek nagrania"
 
 msgid "are you sure you want to cancel all the changes"
-msgstr "na pewno chcesz usunąć wszystkie zmiany"
+msgstr "czy na pewno chcesz anulować wszystkie zmiany?"
 
 msgid "arts/culture (without music, general)"
 msgstr "sztuka/kultura (bez muzyki)"
@@ -13389,7 +13389,7 @@ msgid "create symlink to file"
 msgstr "utwórz link do pliku"
 
 msgid "currentservice"
-msgstr "bieżąca usługa "
+msgstr "bieżący kanał"
 
 msgid "daily"
 msgstr "codziennie"
@@ -13665,7 +13665,7 @@ msgid "genre list"
 msgstr "lista gatunków"
 
 msgid "genrelist"
-msgstr "listagatunków"
+msgstr "lista gatunków"
 
 msgid "get the cards' server"
 msgstr "uzyskać z serwera karty"
@@ -13689,7 +13689,7 @@ msgid "grab this frame as bitmap"
 msgstr "zrób screenshot (.bmp)"
 
 msgid "graphics"
-msgstr "graficzny"
+msgstr "grafika"
 
 msgid "green"
 msgstr "zielony"
@@ -13789,10 +13789,10 @@ msgid "list"
 msgstr "lista"
 
 msgid "listen"
-msgstr "lista"
+msgstr "słuchaj"
 
 msgid "listen to shoutcast internet-radio"
-msgstr "słuchaj radia Internetowego"
+msgstr "słuchaj radia internetowego shoutcast"
 
 msgid "literature"
 msgstr "literatura"
@@ -13807,10 +13807,10 @@ msgid "long"
 msgstr "długo"
 
 msgid "loopthrough"
-msgstr "przelotka"
+msgstr "pętla przez"
 
 msgid "loopthrough to"
-msgstr "przez przelotkę do"
+msgstr "pętla do"
 
 msgid "m2k"
 msgstr "m2k"
@@ -14188,7 +14188,7 @@ msgid "running..."
 msgstr "uruchomiony..."
 
 msgid "satposdepends"
-msgstr "PozycjaSAt zależna od"
+msgstr "pozycja sat zależy od"
 
 msgid "save"
 msgstr "zapisz"
@@ -14212,7 +14212,7 @@ msgid "search EPG"
 msgstr "szukaj EPG"
 
 msgid "search EPG from history..."
-msgstr "szukaj EPG w historii..."
+msgstr "szukaj EPG z historii..."
 
 msgid "second cable of motorized LNB"
 msgstr "drugi kabel zmotoryzowanego LNB"
@@ -14383,7 +14383,7 @@ msgid "stereo"
 msgstr "stereo"
 
 msgid "stop using as startup service"
-msgstr "usuń kanał startowy"
+msgstr "przestań używać jako kanał startowy"
 
 msgid "sw"
 msgstr "sw"
@@ -14447,7 +14447,7 @@ msgid "title starts with"
 msgstr "tytuł zaczyna się od"
 
 msgid "to tuner"
-msgstr "do tunera"
+msgstr "do głowicy"
 
 msgid "toggle time, chapter, audio, subtitle info"
 msgstr "czas odtwarzania, rozdział, audio, informacja o napisach"
@@ -14462,10 +14462,10 @@ msgid "true"
 msgstr "tak"
 
 msgid "tuner_number"
-msgstr "numer tunera"
+msgstr "numer głowicy"
 
 msgid "tuner_type"
-msgstr "typ_tunera"
+msgstr "typ głowicy"
 
 msgid "uShare"
 msgstr "uShare"
@@ -14510,7 +14510,7 @@ msgid "user feed url"
 msgstr "adres url kanału użytkownika"
 
 msgid "user_defined"
-msgstr "zdefiniowany przez użytkownika"
+msgstr "określony przez użytkownika"
 
 msgid "using:"
 msgstr "używając:"
@@ -14525,7 +14525,7 @@ msgid "very fast"
 msgstr "bardzo szybko"
 
 msgid "vix"
-msgstr "vix"
+msgstr "ViX"
 
 msgid "wait for ci..."
 msgstr "czekaj na CI..."
@@ -14564,7 +14564,7 @@ msgid ""
 msgstr ""
 "pytając o ten log\n"
 "\n"
-"Kopia została wysłana do ciebie."
+"Kopia została wysłana do Ciebie."
 
 msgid "white"
 msgstr "biały"
