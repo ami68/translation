@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-27 21:35+0200\n"
+"PO-Revision-Date: 2022-06-29 22:34+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -12428,7 +12428,10 @@ msgid "When enabled the online checker will also check for experimental versions
 msgstr "Po włączeniu kontroler online sprawdzi także wersje eksperymentalne"
 
 msgid "When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV."
-msgstr "Po włączeniu dane AIT będą zawarte w strumieniach http. Dzięki temu odbiornik klienta może korzystać z HbbTV."
+msgstr "Po włączeniu tej funkcji dane AIT będą dołączane do strumieni http. Dzięki temu odbiornik kliencki może korzystać z telewizji HbbTV."
+
+msgid "When enabled, EIT data will be included in http streams. This allows a client receiver to show EPG."
+msgstr "Po włączeniu tej funkcji dane EIT będą dołączane do strumieni http. Dzięki temu odbiornik kliencki może wyświetlać EPG."
 
 msgid "When enabled, a popup message will be shown when a movie has finished and the next one will start."
 msgstr "Po włączeniu okno wiadomości pojawi się gdy film się skończy a następny rozpocznie."
