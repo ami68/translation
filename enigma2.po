@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-29 22:34+0200\n"
+"PO-Revision-Date: 2022-06-30 21:21+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -2155,6 +2155,12 @@ msgstr "Wybierz głowicę"
 msgid "Choose Your favorite bootlogo"
 msgstr "Wybierz ulubione logo startowe"
 
+msgid "Choose a country scheme for decoding rating information in EPG events."
+msgstr "Wybierz schemat kraju do dekodowania informacji o ocenach w wydarzeniach EPG."
+
+msgid "Choose a country scheme for decoding genre information in EPG events."
+msgstr "Wybierz schemat kraju do dekodowania informacji o gatunku w wydarzeniach EPG."
+
 msgid "Choose a tag for easy finding a recording."
 msgstr "Wybierz znacznik umożliwiający łatwe znalezienie nagrania."
 
@@ -2846,10 +2852,10 @@ msgid "Country :"
 msgstr "Państwo:"
 
 msgid "Country for EPG event genre information"
-msgstr "Kraj dla informacji o gatunku zdarzenia EPG"
+msgstr "Kraj dla informacji o gatunku wydarzenia EPG"
 
 msgid "Country for EPG event rating information"
-msgstr "Kraj dla informacji o zdarzeniach EPG"
+msgstr "Kraj dla informacji o ocenie wydarzeń EPG"
 
 msgid "Cover dashed flickering line for this service"
 msgstr "Ukryj przerywaną linię migotania dla tego kanału"
