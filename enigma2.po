@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-30 21:21+0200\n"
+"PO-Revision-Date: 2022-07-26 21:21+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 3.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-Basepath: .\n"
 
 msgid "\tRemote host:"
@@ -1109,6 +1109,9 @@ msgstr "Pozwala %s %s na regularne odczytywanie zapisanych danych EPG."
 
 msgid "Allows the %s %s to store the EPG data regularly."
 msgstr "Pozwala %s %s na regularne zapisywanie danych EPG."
+
+msgid "Allows the TV remote to be used to control the receiver."
+msgstr "Umożliwia używanie pilota TV do sterowania odbiornikiem."
 
 msgid "Allows you to adjust the amount of time the resolution infomation display on screen."
 msgstr "Pozwala na dostosowanie czasu wyświetlania informacji o rozdzielczości na ekranie."
@@ -4425,6 +4428,9 @@ msgstr "Finlandia"
 msgid "Finnish"
 msgstr "Skończone"
 
+msgid "Fix CEC address setting, default is 1.0.0.0"
+msgstr "Ustawienie adresu CEC, domyślnie 1.0.0.0."
+
 msgid "Fixed"
 msgstr "Stała"
 
@@ -4451,6 +4457,9 @@ msgstr "Wymusić usunięcie nieużywanych języków?"
 
 msgid "Force legacy signal stats"
 msgstr "Wymuś statystyki sygnałów z poprzednich okresów"
+
+msgid "Force receiver to send volume keys to all devices on hdmi when no response to audio channel request."
+msgstr "Wymuś na odbiorniku wysłanie klawiszy głośności do wszystkich urządzeń na HDMI, gdy nie ma odpowiedzi na żądanie kanału audio."
 
 msgid "Force volume keys"
 msgstr "Wymuś klawisze głośności"
@@ -5062,8 +5071,8 @@ msgstr "Jeśli ustawione na \"tak\", pasek informacyjny zostanie wyświetlony po
 msgid "If set to 'yes' the infobar will be displayed when changing channels."
 msgstr "Jeśli ustawione na \"tak\", pasek informacyjny zostanie wyświetlony podczas zmiany kanałów."
 
-msgid "If set to 'yes' the same commands will be sent to the TV for deep standby events, as  are sent during regular standby events."
-msgstr "Jeśli ustawione na \"tak\", do telewizora będą wysyłane te same polecenia w przypadku zdarzeń głębokiego czuwania, które są wysyłane podczas zwykłych zdarzeń czuwania."
+msgid "If set to 'yes' the same commands will be sent to the TV for deep standby events, as are sent during regular standby events."
+msgstr "Jeśli ustawione na \"tak\", do TV będą wysyłane te same polecenia w przypadku zdarzeń głębokiego czuwania, które są wysyłane podczas zwykłych zdarzeń czuwania."
 
 msgid "If set to 'yes' you can preview channels in the EPG list."
 msgstr "Jeśli ustawione na \"tak\", można przeglądać kanały na liście EPG."
@@ -12173,6 +12182,9 @@ msgstr "Głośność"
 msgid "Volume down"
 msgstr "Głośność -"
 
+msgid "Volume keys on the receiver remote will control the TV volume."
+msgstr "Klawisze głośności na pilocie odbiornika będą sterować głośnością TV."
+
 msgid "Volume up"
 msgstr "Głośność +"
 
@@ -12235,6 +12247,9 @@ msgstr "Wybudzenie"
 
 msgid "Wake Up To Standby"
 msgstr "Wybudzaj ze stanu czuwania"
+
+msgid "Wake the receiver from standby when the wake command is sent from the TV."
+msgstr "Wybudź odbiornik z trybu czuwania, gdy z TV zostanie wysłane polecenie wybudzenia."
 
 msgid "Wakeup"
 msgstr "Wybudzenie"
@@ -12433,6 +12448,12 @@ msgstr "Co chciałbyś robić?"
 msgid "When enabled the online checker will also check for experimental versions"
 msgstr "Po włączeniu kontroler online sprawdzi także wersje eksperymentalne"
 
+msgid "When enabled the receiver will automatically return to standby when the TV is turned off."
+msgstr "Po włączeniu tej funkcji odbiornik automatycznie powróci do stanu czuwania po wyłączeniu TV."
+
+msgid "When enabled the receiver will automatically wake from standby when the TV is turned on."
+msgstr "Po włączeniu tej funkcji odbiornik będzie automatycznie wybudzał się ze stanu czuwania po włączeniu TV."
+
 msgid "When enabled, AIT data will be included in http streams. This allows a client receiver to use HbbTV."
 msgstr "Po włączeniu tej funkcji dane AIT będą dołączane do strumieni http. Dzięki temu odbiornik kliencki może korzystać z telewizji HbbTV."
 
@@ -12475,7 +12496,7 @@ msgid "When enabled, external subtitles will always be turned on for movie playb
 msgstr "Po włączeniu zewnętrzne napisy będą automatycznie wyświetlane podczas odtwarzania filmu."
 
 msgid "When enabled, graphical DVB subtitles are preferred over teletext subtitles, when both types are available."
-msgstr "Po włączeniu, graficzne napisy DVB będą preferowane przed napisami teletekstu, gdy oba typy są dostępne."
+msgstr "Po włączeniu graficzne napisy DVB będą preferowane przed napisami teletekstu, gdy oba typy są dostępne."
 
 msgid "When enabled, graphical DVB subtitles will be centered horizontally."
 msgstr "Po włączeniu graficzne napisy DVB będą wyśrodkowane poziomo."
@@ -12555,6 +12576,9 @@ msgstr "Gdy różne od 0 nagranie wystartuje wcześniej niż czas rozpoczęcia o
 msgid "When nonzero, a recording will stop later than the ending time indicated by the EPG."
 msgstr "Gdy różne od 0 nagranie zatrzyma się później niż czas zakończenia określony w EPG."
 
+msgid "When receiver wakes from standby, it will command the TV to switch to the HDMI input the receiver is connected to."
+msgstr "Gdy odbiornik wybudzi się ze stanu czuwania, poleci TV przełączyć się na wejście HDMI, do którego podłączony jest odbiornik."
+
 msgid "When set the PIG will return to live after a movie has stopped playing."
 msgstr "Po ustawieniu PiG powróci do ostatnio oglądanego programu TV po zakończeniu odtwarzania filmu."
 
@@ -12564,8 +12588,8 @@ msgstr "Gdy obraz ma proporcje 16:9 wybierz opcję skalowania/rozciągania obraz
 msgid "When the content has an aspect ratio of 4:3, choose whether to scale/stretch the picture."
 msgstr "Gdy obraz ma proporcje 4:3 wybierz opcję skalowania/rozciągania obrazu."
 
-msgid "When the receiver wakes from standby, it will send a command to the TVto bring it out of standby too."
-msgstr "Gdy odbiornik obudzi się ze stanu czuwania, wyśle ​​polecenie do TV, aby wyprowadzić go również ze stanu czuwania."
+msgid "When the receiver wakes from standby, it will send a command to the TV to bring it out of standby too."
+msgstr "Gdy odbiornik obudzi się ze stanu czuwania, wyśle ​​polecenie do TV, aby i on wyszedł ze stanu czuwania."
 
 msgid "When tuned to a service the system will normally scan the transponder for any changes and save them. Only set to 'yes' if you're absolutely sure of what you're doing."
 msgstr "Po dostrojeniu do usługi system zwykle skanuje transponder w poszukiwaniu wszelkich zmian i zapisuje je. Ustaw na \"tak\" tylko wtedy, gdy jesteś absolutnie pewien tego, co robisz."
