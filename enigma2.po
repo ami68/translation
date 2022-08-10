@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-07-26 21:21+0200\n"
+"PO-Revision-Date: 2022-08-10 21:58+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -996,11 +996,10 @@ msgid "Address"
 msgstr "Adres"
 
 msgid ""
-"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other "
-"test screens."
+"Adjust the color settings so that all the color shades are distinguishable, but appear as saturated as possible. If you are happy with the result, press OK to close the video fine-tuning, or use the number keys to select other test screens."
 msgstr ""
-"Dostosuj ustawienia kolorów, aby wszystkie odcienie były rozpoznawalne, ale jak najbardziej nasycone. Jeśli jesteś zadowolony z wyniku, naciśnij przycisk OK, aby zamknąć dostrojenie wideo, lub użyj klawiszy numerycznych, aby "
-"wybrać inne ekrany testowe."
+"Dostosuj ustawienia kolorów, aby wszystkie odcienie były rozpoznawalne, ale jak najbardziej nasycone. Jeśli jesteś zadowolony z wyniku, naciśnij przycisk OK, aby zamknąć dostrojenie wideo, lub użyj klawiszy numerycznych, aby wybrać inne ekrany "
+"testowe."
 
 msgid "Advanced"
 msgstr "Zaawansowane"
@@ -1630,6 +1629,9 @@ msgstr "Ustawienia podstawowe"
 
 msgid "Basque"
 msgstr "Baskijski"
+
+msgid "Before sending the command to switch the TV to standby, the receiver tests if all the other devices plugged into TV are in standby. If they are not, the 'sourceactive' command will be sent to the TV instead of the 'standby' command."
+msgstr "Przed wysłaniem polecenia przełączenia TV w stan czuwania odbiornik sprawdza, czy wszystkie inne urządzenia podłączone do TV są w stanie czuwania. Jeśli nie są, do TV zostanie wysłana komenda \"sourceactive\" zamiast komendy \"standby\"."
 
 msgid "Begin time"
 msgstr "Czas rozpoczęcia"
@@ -2346,6 +2348,9 @@ msgstr "Wykonywanie polecenia..."
 
 msgid "Command order"
 msgstr "Kolejność poleceń"
+
+msgid "Command the TV to switch to the correct HDMI input when zap timers activate."
+msgstr "Poleć TV, aby przełączył się na właściwe wejście HDMI, gdy aktywują się liczniki przełączania."
 
 msgid "Command type"
 msgstr "Wpisz polecenie"
@@ -3112,6 +3117,9 @@ msgstr "Domyślne"
 msgid "Delay before key repeat starts:"
 msgstr "Opóźnienie przed rozpoczęciem powtarzania:"
 
+msgid "Delay between CEC commands when sending a series of command. Some devices require this delay for correct functioning, usually between 50-150ms."
+msgstr "Opóźnienie pomiędzy komendami CEC podczas wysyłania serii komend. Niektóre urządzenia wymagają tego opóźnienia do poprawnego działania, zwykle jest to przedział 50-150ms."
+
 msgid "Delay for external subtitles"
 msgstr "Opóźnienie napisów zewnętrznych"
 
@@ -3173,10 +3181,9 @@ msgid "Depth"
 msgstr "Głębia"
 
 msgid ""
-"Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the "
-"recording and don't record ECM."
-msgstr ""
-"\"Dekoduj i nagrywaj ECM\": późniejsze odkodowanie, jeśli nie powiodło się. \"Nie dekoduj, nagrywaj ECM\": zapisz zakodowane nagranie, które można odkodować podczas odtwarzania. \"Normalny\": dekodowanie i brak nagrywania ECM."
+"Descramble & record ECM' gives the option to descramble afterwards if descrambling on recording failed. 'Don't descramble, record ECM' save a scramble recording that can be descrambled on playback. 'Normal' means descramble the recording and "
+"don't record ECM."
+msgstr "\"Dekoduj i nagrywaj ECM\": późniejsze odkodowanie, jeśli nie powiodło się. \"Nie dekoduj, nagrywaj ECM\": zapisz zakodowane nagranie, które można odkodować podczas odtwarzania. \"Normalny\": dekodowanie i brak nagrywania ECM."
 
 msgid "Descramble http streams"
 msgstr "Dekoduj strumień http"
@@ -5035,6 +5042,9 @@ msgstr "Jeśli ta opcja jest włączona, dekoder będzie próbował dopasować r
 msgid "If enabled the video will always be de-interlaced."
 msgstr "Jeśli ta opcja jest włączona, film będzie zawsze bez przeplotu."
 
+msgid "If enabled, a log will be kept of CEC protocol traffic ('hdmicec.log')."
+msgstr "Jeśli ta opcja jest włączona, będzie przechowywany log ruchu protokołu CEC (\"hdmicec.log\")."
+
 msgid "If set to 'Standard' number buttons page up/down/left/right."
 msgstr "Jeśli ustawiony jest na \"Standardowy\", to przyciski numeryczne działają jak strona w górę/dół/lewo/prawo."
 
@@ -5079,8 +5089,7 @@ msgstr "Jeśli ustawione na \"tak\", można przeglądać kanały na liście EPG.
 
 msgid "If set to 'yes' you can preview channels in the channel list. Press 'OK' to preview the selected channel, press a 2nd 'OK' to exit and zap to that channel, pressing 'EXIT' to return to the channel you started at."
 msgstr ""
-"Jeśli ustawione na \"tak\", można przeglądać kanały na liście kanałów. Naciśnij \"OK\", aby wyświetlić podgląd wybranego kanału, naciśnij drugi raz \"OK\", aby wyjść i włączyć wybrany kanał, naciskając \"EXIT\" powrócisz do "
-"poprzedniego kanału."
+"Jeśli ustawione na \"tak\", można przeglądać kanały na liście kanałów. Naciśnij \"OK\", aby wyświetlić podgląd wybranego kanału, naciśnij drugi raz \"OK\", aby wyjść i włączyć wybrany kanał, naciskając \"EXIT\" powrócisz do poprzedniego kanału."
 
 msgid "If set to 'yes', allows you to use the seekbar to jump to a point within the event."
 msgstr "Jeśli ustawione na \"tak\", umożliwia użycie paska przeszukiwania, aby przejść do punktu w wydarzeniu."
@@ -5118,14 +5127,12 @@ msgstr ""
 "Naciśnij OK, aby kontynuować."
 
 msgid ""
-"If your TV has a brightness or contrast enhancement, disable it. If there is something called \"dynamic\", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as "
-"possible.\n"
+"If your TV has a brightness or contrast enhancement, disable it. If there is something called \"dynamic\", set it to standard. Adjust the backlight level to a value suiting your taste. Turn down contrast on your TV as much as possible.\n"
 "Then turn the brightness setting as low as possible, but make sure that the two lowermost shades of gray stay distinguishable.\n"
 "Do not care about the bright shades now. They will be set up in the next step.\n"
 "If you are happy with the result, press OK."
 msgstr ""
-"Jeśli twój TV posiada poprawę jasności i kontrastu, wyłącz to. Jeśli masz opcję ustawioną na \"dynamiczne\", zmień ją na standardową. Dostosuj poziom podświetlania do własnej wartości. Zmniejsz kontrast w TV do najniższej "
-"wartości.\n"
+"Jeśli twój TV posiada poprawę jasności i kontrastu, wyłącz to. Jeśli masz opcję ustawioną na \"dynamiczne\", zmień ją na standardową. Dostosuj poziom podświetlania do własnej wartości. Zmniejsz kontrast w TV do najniższej wartości.\n"
 "Następnie zmniejsz poziom jasności, ale upewnij się, że dwa najniższe odcienie szarości są rozpoznawalne.\n"
 "Na razie nie troszcz się o odcienie jasności. Zostaną one ustawione w kolejnym kroku.\n"
 "Jeśli jesteś zadowolony z rezultatu, wciśnij OK."
@@ -5574,6 +5581,9 @@ msgstr "Jądro:\t%s"
 
 msgid "Kernel: %s"
 msgstr "Jądro: %s"
+
+msgid "Key Events"
+msgstr "Najważniejsze wydarzenia"
 
 msgid "Keyboard"
 msgstr "Klawiatura"
@@ -6027,6 +6037,9 @@ msgstr "Wiadomość"
 
 msgid "Message..."
 msgstr "Wiadomość..."
+
+msgid "Messages"
+msgstr "Komunikaty"
 
 msgid "Mexico"
 msgstr "Meksyk"
@@ -7700,6 +7713,9 @@ msgstr "Naciśnij OK, aby zmienić wybór."
 msgid "Press ok to confirm"
 msgstr "Naciśnij ok, aby potwierdzić"
 
+msgid "Press OK to select the save location of the log file."
+msgstr "Naciśnij OK, aby wybrać lokalizację zapisu pliku loga."
+
 msgid "Press yellow to set this interface as the default interface."
 msgstr "Wciśnij żółty, aby ustawić ten interfejs jako domyślny."
 
@@ -7799,8 +7815,8 @@ msgstr "Operatorzy: "
 msgid "Published"
 msgstr "Publikowane"
 
-msgid "Put A/V receiver in standby"
-msgstr "Przełącz odbiornik A/V w stan czuwania"
+msgid "Put A/V receiver in standby."
+msgstr "Przełącz odbiornik A/V w stan czuwania."
 
 msgid "Put TV in standby"
 msgstr "Przełącz TV w stan czuwania"
@@ -8222,6 +8238,12 @@ msgstr "Powtarzane wydarzenie właśnie jest nagrywane... Co chcesz zrobić?"
 msgid "Repeats"
 msgstr "Powtórki"
 
+msgid "Request for physical address report"
+msgstr "Żądanie raportu dotyczącego adresu fizycznego"
+
+msgid "Request for vendor report"
+msgstr "Żądanie raportu dostawcy"
+
 msgid "Require authentication for http streams"
 msgstr "Wymagaj uwierzytelnienia dla strumienia http"
 
@@ -8368,6 +8390,9 @@ msgstr "Prędkość obrotu silnika"
 
 msgid "Rotor: "
 msgstr "Obrotnica: "
+
+msgid "Routing request"
+msgstr "Żądanie routingu"
 
 msgid "Run"
 msgstr "Uruchomić"
@@ -8787,30 +8812,23 @@ msgstr "Wybierz folder docelowy"
 msgid "Select text to search for"
 msgstr "Wybierz tekst do wyszukania"
 
-msgid ""
-"Select the desired function and click on \"OK\" to assign it.Use \"CH+/-\" to toggle between the lists. Select an assigned function and click on \"OK\" to de-assign it.Use \"Next/Previous\" to change the order of the assigned "
-"functions."
-msgstr ""
-"Wybierz żądaną funkcję i kliknij „OK”, aby ją przypisać. Użyj \"CH+/-\" aby przełączać się między listami. Wybierz przypisaną funkcję i kliknij „OK”, aby ją anulować. Użyj \"góra/dół\", aby zmienić kolejność przypisanych funkcji."
+msgid "Select the desired function and click on \"OK\" to assign it.Use \"CH+/-\" to toggle between the lists. Select an assigned function and click on \"OK\" to de-assign it.Use \"Next/Previous\" to change the order of the assigned functions."
+msgstr "Wybierz żądaną funkcję i kliknij „OK”, aby ją przypisać. Użyj \"CH+/-\" aby przełączać się między listami. Wybierz przypisaną funkcję i kliknij „OK”, aby ją anulować. Użyj \"góra/dół\", aby zmienić kolejność przypisanych funkcji."
 
 msgid "Select the movie path"
 msgstr "Wybierz ścieżkę filmu"
 
 msgid "Select the satellite which is connected to Port-A of your switch. If you are unsure select 'automatic' and the receiver will attempt to determine this for you. If nothing is connected to this port, select 'nothing connected'."
-msgstr ""
-"Wybierz satelitę podłączonego do portu A przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
+msgstr "Wybierz satelitę podłączonego do portu A przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
 
 msgid "Select the satellite which is connected to Port-B of your switch. If you are unsure select 'automatic' and the receiver will attempt to determine this for you. If nothing is connected to this port, select 'nothing connected'."
-msgstr ""
-"Wybierz satelitę podłączonego do portu B przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
+msgstr "Wybierz satelitę podłączonego do portu B przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
 
 msgid "Select the satellite which is connected to Port-C of your switch. If you are unsure select 'automatic' and the receiver will attempt to determine this for you. If nothing is connected to this port, select 'nothing connected'."
-msgstr ""
-"Wybierz satelitę podłączonego do portu C przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
+msgstr "Wybierz satelitę podłączonego do portu C przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
 
 msgid "Select the satellite which is connected to Port-D of your switch. If you are unsure select 'automatic' and the receiver will attempt to determine this for you. If nothing is connected to this port, select 'nothing connected'."
-msgstr ""
-"Wybierz satelitę podłączonego do portu D przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
+msgstr "Wybierz satelitę podłączonego do portu D przełącznika. Jeśli nie masz pewności, wybierz „automatyczny”, a odbiornik spróbuje to ustalić za Ciebie. Jeśli nic nie jest podłączone do tego portu, wybierz „nic nie jest podłączone”."
 
 msgid "Select the satellite you want to configure. Once that satellite is configured you can select and configure other satellites that will be accessed using this same tuner."
 msgstr "Wybierz satelitę, którego chcesz skonfigurować. Po skonfigurowaniu tego satelity możesz wybrać i skonfigurować inne satelity, które będą dostępne za pomocą tej samej głowicy."
@@ -10587,7 +10605,7 @@ msgid "TV button mode"
 msgstr "Tryb przycisku TV"
 
 msgid "TV physical address report"
-msgstr "Raport fizycznego adresu TV"
+msgstr "Raport o adresie fizycznym TV"
 
 msgid "TXT PID"
 msgstr "TXT PID"
@@ -10798,6 +10816,9 @@ msgstr ""
 
 msgid "The backup failed. Please choose a different backup location."
 msgstr "Nie udało się utworzyć kopii zapasowej. Wybierz inną lokalizację kopii zapasowej."
+
+msgid "The command to wake from standby will be sent multiple times."
+msgstr "Polecenie wybudzenia ze stanu czuwania zostanie wysłane wielokrotnie."
 
 msgid ""
 "The directory %s is not a EXT2, EXT3, EXT4 or NFS partition.\n"
@@ -11063,8 +11084,7 @@ msgid "This option allows you to choose how to display the remaining/elapsed tim
 msgstr "Ta opcja pozwala wybrać sposób wyświetlania pozostałego/upływającego czasu odtwarzania multimediów."
 
 msgid "This option allows you to choose what the first button press jumps to in channel list screen, (so pressing '2' jumps to 'A' or '2' first), when 'Quick Actions' preset actions are perfomed. "
-msgstr ""
-"Ta opcja pozwala wybrać, do czego ma przeskoczyć pierwsze naciśnięcie przycisku na ekranie listy kanałów (naciśnięcie \"2\" przeskakuje najpierw do \"A\" lub \"2\"), gdy wykonywane są zaprogramowane działania \"szybkie akcje\". "
+msgstr "Ta opcja pozwala wybrać, do czego ma przeskoczyć pierwsze naciśnięcie przycisku na ekranie listy kanałów (naciśnięcie \"2\" przeskakuje najpierw do \"A\" lub \"2\"), gdy wykonywane są zaprogramowane działania \"szybkie akcje\". "
 
 msgid "This option allows you to disable sorting of the menus"
 msgstr "Ta opcja pozwala na wyłączenie sortowania menu."
@@ -12239,8 +12259,8 @@ msgstr "Czekanie na podmontowanie"
 msgid "Waiting for partition"
 msgstr "Czekanie na partycję"
 
-msgid "Wake A/V receiver from standby"
-msgstr "Wybudź odbiornik A/V ze stanu czuwania"
+msgid "Wake A/V receiver from standby."
+msgstr "Wybudź odbiornik A/V ze stanu czuwania."
 
 msgid "Wake Up"
 msgstr "Wybudzenie"
@@ -12473,8 +12493,8 @@ msgid "When enabled, a warning will be displayed and the user will get an option
 msgstr "Po włączeniu zostanie wyświetlone ostrzeżenie, a użytkownik otrzyma możliwość zatrzymania lub kontynuowania timeshiftu."
 
 msgid ""
-"When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of "
-"this setting. Default off."
+"When enabled, always descramble receiving http streams. This takes up more resources (descrambling demuxers), only enable if necessary. Individual streams are always descrambled if 0x100 is added to the service type, regardless of this "
+"setting. Default off."
 msgstr "Po włączeniu zawsze dekoduj odbieranie strumieni http. Włączaj tylko w razie potrzeby. Poszczególne strumienie są zawsze deszyfrowane, jeśli do typu usługi zostanie dodane 0x100, niezależnie od tego ustawienia."
 
 msgid "When enabled, authentication is required to watch http streams."
