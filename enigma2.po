@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-08-10 22:15+0200\n"
+"PO-Revision-Date: 2022-08-28 23:12+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -9251,6 +9251,9 @@ msgstr "Ustawienia pozycjonera"
 msgid "Setup your satellite equipment"
 msgstr "Ustawienia wyposażenia SAT"
 
+msgid "Setup your timezone area."
+msgstr "Ustawienia strefy czasowej."
+
 msgid "Setup your timezone."
 msgstr "Ustawienia strefy czasowej."
 
@@ -13120,6 +13123,9 @@ msgstr ""
 "\n"
 "Naciśnij OK, aby kontynuować.\n"
 "\n"
+
+msgid "Your timezone in the area."
+msgstr "Twoja strefa czasowa."
 
 msgid ""
 "Your wireless LAN internet connection could not be started!\n"
