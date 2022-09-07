@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-06 19:03+0200\n"
+"PO-Revision-Date: 2022-09-07 19:58+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -2429,6 +2429,9 @@ msgstr "Skonfiguruj dodatkowe opóźnienie, aby poprawić synchronizację napis�
 
 msgid "Configure audio lanaguage"
 msgstr "Skonfiguruj automatyczny język"
+
+msgid "Configure duration of inactivity before the hard disk drive goes to standby"
+msgstr "Skonfiguruj czas bezczynności, po którym dysk twardy przechodzi w stan czuwania"
 
 msgid "Configure for how many minutes finished events should remain visible in the EPG. Useful when you need information about an event which has just finished, or has been delayed."
 msgstr "Skonfiguruj przez ile minut zakończone audycje pozostaną widoczne w EPG. Przydatne, gdy potrzebujesz informacji o programie, który właśnie się zakończył lub się opóźnił."
@@ -6336,6 +6339,9 @@ msgstr "Ustawienia serwera nazw"
 msgid "Namespace"
 msgstr "Nazwa miejsca"
 
+msgid "Narration"
+msgstr "Narracja"
+
 msgid "Netherlands"
 msgstr "Holandia"
 
@@ -6954,6 +6960,9 @@ msgstr "Pozycja orbitalna"
 
 msgid "Original"
 msgstr "Oryginalna"
+
+msgid "Original language"
+msgstr "Język oryginalny"
 
 msgid "Oscam Info - Configuration"
 msgstr "Oscam Info - konfiguracja"
