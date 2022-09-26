@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-26 20:25+0200\n"
+"PO-Revision-Date: 2022-09-26 23:21+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -5244,13 +5244,16 @@ msgid "Info icon width"
 msgstr "Szerokość info ikony"
 
 msgid "InfoBar EPG mode"
-msgstr "Pasek info trybu EPG"
+msgstr "Pasek informacyjny trybu EPG"
 
 msgid "InfoBarGridEPG"
-msgstr "Pasek info siatki EPG"
+msgstr "Pasek informacyjny siatki EPG"
 
 msgid "Infobar EPG"
-msgstr "Pasek info EPG"
+msgstr "Pasek informacyjny EPG"
+
+msgid "Infobar EPG activation"
+msgstr "Aktywacja paska informacyjnego EPG"
 
 msgid "Infobar Setup"
 msgstr "Ustawienia paska informacyjnego"
@@ -5265,10 +5268,10 @@ msgid "Infobar settings"
 msgstr "Ustawienia paska informacyjnego"
 
 msgid "InfobarEPG settings"
-msgstr "Ustawienia paska info EPG"
+msgstr "Ustawienia paska informacyjnego EPG"
 
 msgid "InfobarSingleEPG"
-msgstr "Pasek info pojedynczego EPG"
+msgstr "Pasek informacyjny pojedynczego EPG"
 
 msgid "Information"
 msgstr "Informacje"
@@ -5550,7 +5553,7 @@ msgid "Jump to end of list"
 msgstr "Skocz na koniec listy"
 
 msgid "Jump to prime time"
-msgstr "Skocz do najlepszego czasu"
+msgstr "Skocz do czasu największej oglądalności"
 
 msgid "Jump to the next marked position"
 msgstr "Skocz do następnej zaznaczonej pozycji"
@@ -7028,7 +7031,7 @@ msgid "PMT PID"
 msgstr "PMT PID"
 
 msgid "PRIMETIME"
-msgstr "Najlepszy czas"
+msgstr "Czas największej oglądalności"
 
 msgid "PVR/VIDEO"
 msgstr "PVR/VIDEO"
@@ -7747,13 +7750,13 @@ msgid "Primary DNS"
 msgstr "Pierwszy DNS"
 
 msgid "Primetime"
-msgstr "Najlepszy czas"
+msgstr "Czas największej oglądalności"
 
 msgid "Primetime hour"
-msgstr "Najlepsza godzina"
+msgstr "Godzina czasu największej oglądalności"
 
 msgid "Primetime minute"
-msgstr "Najlepsza minuta"
+msgstr "Minuta czasu największej oglądalności"
 
 msgid "Prioritize updates of packages (--force-overwrite)"
 msgstr "Priorytet aktualizacji pakietów (wymuś nadpisanie)"
@@ -8773,6 +8776,12 @@ msgstr "Wybierz pierwszy kanał w bukiecie"
 msgid "Select folders"
 msgstr "Wybierz foldery"
 
+msgid "Select how to activate the Infobar Grid EPG. This will affect Infobar behaviour"
+msgstr "Wybierz sposób aktywacji paska informacyjnego siatki EPG. Wpłynie to na zachowanie paska informacyjnego."
+
+msgid "Select how to activate the Infobar Single EPG. This will affect Infobar behaviour"
+msgstr "Wybierz sposób aktywacji paska informacyjnego pojedynczego EPG. Wpłynie to na zachowanie paska informacyjnego."
+
 msgid "Select how to activate the Quick EPG mode:"
 msgstr "Wybierz sposób aktywacji szybkiego EPG:"
 
@@ -9113,7 +9122,7 @@ msgid "Set the delay time between repeated loops, this uses a software render in
 msgstr "Ustaw czas opóźnienia pomiędzy pętlami, wykorzystuje to oprogramowanie dostarczone przez niektóre skórki."
 
 msgid "Set the desired primetime."
-msgstr "Ustaw żądany najlepszy czas."
+msgstr "Ustaw żądany czas największej oglądalności."
 
 msgid "Set the jump-size of the seekbar."
 msgstr "Ustaw rozmiar skoku paska przeszukiwania."
@@ -9143,7 +9152,10 @@ msgid "Set the type of the progress indication in the channel selection screen."
 msgstr "Ustaw typ wskazania postępu w pasku wyboru kanału."
 
 msgid "Set to the desired primetime (hour)."
-msgstr "Ustaw żądany najlepszy czas (godziny)."
+msgstr "Ustaw żądany czas największej oglądalności (godzina)."
+
+msgid "Set to the desired primetime."
+msgstr "Ustaw żądany czas największej oglądalności."
 
 msgid "Set to what you want the button to do."
 msgstr "Ustaw co ma robić dany przycisk."
