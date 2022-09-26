@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-21 21:51+0200\n"
+"PO-Revision-Date: 2022-09-26 20:25+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -2034,7 +2034,7 @@ msgid "Channel Name"
 msgstr "Nazwa kanału"
 
 msgid "Channel Selection"
-msgstr "Wybór kanału"
+msgstr "Ustawienia listy kanałów"
 
 msgid "Channel down"
 msgstr "Kanał -"
@@ -2067,7 +2067,7 @@ msgid "Channel preview mode"
 msgstr "Tryb podglądu kanału"
 
 msgid "Channel selection"
-msgstr "Wybór kanału"
+msgstr "Ustawienia listy kanałów"
 
 msgid "Channel selection settings"
 msgstr "Ustawienia listy kanałów"
@@ -7824,6 +7824,9 @@ msgstr "Operatorzy: "
 msgid "Published"
 msgstr "Publikowane"
 
+msgid "Put A/V receiver in standby"
+msgstr "Przełącz odbiornik A/V w stan czuwania"
+
 msgid "Put A/V receiver in standby."
 msgstr "Przełącz odbiornik A/V w stan czuwania."
 
@@ -12273,6 +12276,9 @@ msgstr "Czekanie na podmontowanie"
 
 msgid "Waiting for partition"
 msgstr "Czekanie na partycję"
+
+msgid "Wake A/V receiver from standby"
+msgstr "Wybudź odbiornik A/V ze stanu czuwania"
 
 msgid "Wake A/V receiver from standby."
 msgstr "Wybudź odbiornik A/V ze stanu czuwania."
