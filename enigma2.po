@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-26 23:21+0200\n"
+"PO-Revision-Date: 2022-09-27 19:41+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -2176,7 +2176,7 @@ msgid "Choose target folder"
 msgstr "Wybierz folder docelowy"
 
 msgid "Choose the layout. Single channel, Graphics Grid EPG or Text Grid EPG."
-msgstr "Wybierz układ. Pojedynczy kanał, graficzna siatka EPG lub tekstowa siatka EPG."
+msgstr "Wybierz układ. Pojedynczy kanał, graficzne Multi EPG lub tekstowe Multi EPG."
 
 msgid "Choose the location for crash and debug logs."
 msgstr "Wybierz lokalizację dla crashlogów i logów debugowania."
@@ -4698,7 +4698,7 @@ msgid "Graphics"
 msgstr "Grafika"
 
 msgid "Graphics Grid EPG"
-msgstr "Graficzna siatka EPG"
+msgstr "Graficzne Multi EPG"
 
 msgid "Great Britain"
 msgstr "Wielka Brytania"
@@ -4725,10 +4725,10 @@ msgid "Grey"
 msgstr "Szary"
 
 msgid "Grid EPG"
-msgstr "Siatka EPG"
+msgstr "Graficzne Multi EPG"
 
 msgid "GridEPG"
-msgstr "Siatka EPG"
+msgstr "Graficzne Multi EPG"
 
 msgid "Guard interval"
 msgstr "Okres ochronny"
@@ -5247,7 +5247,7 @@ msgid "InfoBar EPG mode"
 msgstr "Pasek informacyjny trybu EPG"
 
 msgid "InfoBarGridEPG"
-msgstr "Pasek informacyjny siatki EPG"
+msgstr "Pasek informacyjny graficznego Multi EPG"
 
 msgid "Infobar EPG"
 msgstr "Pasek informacyjny EPG"
@@ -8777,7 +8777,7 @@ msgid "Select folders"
 msgstr "Wybierz foldery"
 
 msgid "Select how to activate the Infobar Grid EPG. This will affect Infobar behaviour"
-msgstr "Wybierz sposób aktywacji paska informacyjnego siatki EPG. Wpłynie to na zachowanie paska informacyjnego."
+msgstr "Wybierz sposób aktywacji paska informacyjnego graficznego Multi EPG. Wpłynie to na zachowanie paska informacyjnego."
 
 msgid "Select how to activate the Infobar Single EPG. This will affect Infobar behaviour"
 msgstr "Wybierz sposób aktywacji paska informacyjnego pojedynczego EPG. Wpłynie to na zachowanie paska informacyjnego."
@@ -9375,7 +9375,7 @@ msgid "Show Games show"
 msgstr "Rozrywka"
 
 msgid "Show Grid EPG"
-msgstr "Pokaż siatkę EPG"
+msgstr "Pokaż graficzne Multi EPG"
 
 msgid "Show HDD Temperature"
 msgstr "Pokaż temperaturę HDD"
@@ -10704,7 +10704,7 @@ msgid "Text"
 msgstr "Tekst"
 
 msgid "Text Grid EPG"
-msgstr "Tekstowa siatka EPG"
+msgstr "Tekstowe Multi EPG"
 
 msgid "Text View On"
 msgstr "Widok tekstu włączony"
