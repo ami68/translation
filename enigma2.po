@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-09-27 19:41+0200\n"
+"PO-Revision-Date: 2022-10-02 22:25+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -1464,6 +1464,9 @@ msgstr "Przejdź w dół do ostatniej pozycji:"
 
 msgid "Auto scart switching"
 msgstr "Automatyczne przełączanie scart"
+
+msgid "Auto volume level"
+msgstr "Automatyczny poziom głośności"
 
 msgid "Auto(not available)"
 msgstr "Auto (niedostępny)"
@@ -9684,7 +9687,7 @@ msgid "Show second infobar"
 msgstr "Pokaż drugi pasek info"
 
 msgid "Show select audio track"
-msgstr "Wybierz ścieżkę audio"
+msgstr "Pokaż wybraną ścieżkę audio"
 
 msgid "Show service list"
 msgstr "Pokaż listę kanałów"
@@ -11435,8 +11438,14 @@ msgstr "Tryb ustawienia tytułu"
 msgid "To apply the selected '%s' skin the GUI needs to restart. Would you like to restart the GUI now?"
 msgstr "Aby zastosować wybraną skórkę '%s', GUI musi zostać zrestartowane. Czy chcesz to zrobić teraz?"
 
+msgid "To audio selection"
+msgstr "Do wyboru ścieżki audio"
+
 msgid "To save and apply the selected '%s' skin the GUI needs to restart. Would you like to save the selection and restart the GUI now?"
 msgstr "Aby zapisać i zastosować wybraną skórkę '%s', GUI musi zostać zrestartowane. Czy chcesz zapisać i zrestartowac teraz?"
+
+msgid "To subtitle selection"
+msgstr "Do wyboru napisów"
 
 msgid "Today"
 msgstr "Dzisiaj"
