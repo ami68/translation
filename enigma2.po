@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-02 22:25+0200\n"
+"PO-Revision-Date: 2022-10-15 23:00+0200\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -7601,6 +7601,12 @@ msgstr "Ustawienia pozycjonera"
 msgid "Power"
 msgstr "Przycisk zasilania"
 
+msgid "Power Timer Edit"
+msgstr "Edycja timerów zasilania"
+
+msgid "Power Timer List"
+msgstr "Lista timerów zasilania"
+
 msgid "Power long"
 msgstr "Przycisk zasilania - długie naciśnięcie"
 
@@ -9729,7 +9735,7 @@ msgid "Show the DreamPlex player..."
 msgstr "Pokaż odtwarzacz DreamPlex'a..."
 
 msgid "Show the list of timers."
-msgstr "Pokaż listę timera."
+msgstr "Pokaż listę timerów."
 
 msgid "Show the media player..."
 msgstr "Pokaż odtwarzacz..."
@@ -11333,6 +11339,9 @@ msgstr "Wyłącznik czasowy wyłączony przez użytkownika!"
 
 msgid "Timer"
 msgstr "Timer"
+
+msgid "Timer Edit"
+msgstr "Edycja timera"
 
 msgid "Timer List"
 msgstr "Lista wpisów timera"
