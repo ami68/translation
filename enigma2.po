@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-10-15 23:00+0200\n"
+"PO-Revision-Date: 2022-11-23 21:19+0100\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 3.1.1\n"
+"X-Generator: Poedit 3.2\n"
 "X-Poedit-Basepath: .\n"
 
 msgid "\tRemote host:"
@@ -1954,6 +1954,9 @@ msgstr "Numer karty"
 msgid "Cascade PiP"
 msgstr "Kaskada PiP"
 
+msgid "Center DVB subs on this service"
+msgstr "Wyśrodkuj napisy DVB na tym kanale"
+
 msgid "Center DVB subtitles"
 msgstr "Wyśrodkuj napisy DVB"
 
@@ -3374,6 +3377,9 @@ msgstr ""
 
 msgid "Do You want to install"
 msgstr "Chcesz zainstalować pakiet"
+
+msgid "Do not center DVB subs on this service"
+msgstr "Nie wyśrodkowuj napisów DVB na tym kanale"
 
 msgid "Do not change"
 msgstr "Nie zmieniaj"
@@ -13323,6 +13329,9 @@ msgstr "alternatywne"
 
 msgid "am"
 msgstr "am"
+
+msgid "and never ask again this session"
+msgstr "i nigdy więcej nie pytaj o to"
 
 msgid "any recordings"
 msgstr "jakiekolwiek nagrania"
