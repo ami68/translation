@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-11-23 21:19+0100\n"
+"PO-Revision-Date: 2022-11-28 22:08+0100\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -829,6 +829,9 @@ msgstr "Aktywuj ustawienia sieci"
 msgid "Activate the configured network settings."
 msgstr "Aktywuj skonfigurowane ustawienia sieci."
 
+msgid "Activate timeshift end"
+msgstr "Aktywuj timeshift"
+
 msgid "Activate timeshift end and pause"
 msgstr "Aktywuj timeshift i zastopuj"
 
@@ -1279,7 +1282,7 @@ msgid "Are you sure you want to purge all deleted user bouquets?"
 msgstr "Czy chcesz usunąć wszystkie nieużywane bukiety kanałów?"
 
 msgid "Are you sure you want to reload the EPG data from:\n"
-msgstr "Czy chcesz odświeżyć dane EPG z:\n"
+msgstr "Czy chcesz przeładować dane EPG z:\n"
 
 msgid "Are you sure you want to remove all %d.%d%s%s services?"
 msgstr "Czy chcesz usunąć wszystkie %d.%d%s%s kanały?"
@@ -1533,6 +1536,9 @@ msgstr "Autostart"
 
 msgid "Autostart:"
 msgstr "Autostart:"
+
+msgid "Autotimer overview"
+msgstr "Przegląd Autotimerów"
 
 msgid "Available format variables"
 msgstr "Dostępne zmienne formatu"
@@ -7007,7 +7013,7 @@ msgid "PAT Info"
 msgstr "Informacje PAT"
 
 msgid "PAT/PMT/NIT and more informations about stream"
-msgstr "Informacje o sygnale oraz tablicach PAT/PMT/NIT"
+msgstr "Informacje o strumieniu oraz tablicach PAT/PMT/NIT"
 
 msgid "PCM"
 msgstr "PCM"
@@ -7616,6 +7622,9 @@ msgstr "Lista timerów zasilania"
 msgid "Power long"
 msgstr "Przycisk zasilania - długie naciśnięcie"
 
+msgid "Power menu"
+msgstr "Menu zasilania"
+
 msgid "Power threshold in mA"
 msgstr "Wartość progowa mocy w mA"
 
@@ -8092,7 +8101,10 @@ msgid "Reload"
 msgstr "Przeładuj"
 
 msgid "Reload Services"
-msgstr "Odśwież kanały"
+msgstr "Przeładuj kanały"
+
+msgid "Reload skin"
+msgstr "Przeładuj skórkę"
 
 msgid "Reloading EPG Cache..."
 msgstr "Przeładuj pamięć podręczną EPG..."
@@ -8330,6 +8342,9 @@ msgstr "Zrestartować GUI teraz?"
 
 msgid "Restart enigma"
 msgstr "Zrestartuj GUI"
+
+msgid "Restart last movie"
+msgstr "Uruchom ponownie ostatni film"
 
 msgid "Restart network"
 msgstr "Zrestartuj sieć"
@@ -8703,6 +8718,9 @@ msgstr "Przeszukaj do przodu"
 
 msgid "Seek forward (enter time)"
 msgstr "Przeszukaj do przodu (wprowadź czas)"
+
+msgid "Seekbar"
+msgstr "Pasek przeszukiwania"
 
 msgid "Seekbar activation"
 msgstr "Aktywacja paska przeszukiwania"
@@ -9474,7 +9492,7 @@ msgid "Show Source Info"
 msgstr "Pokaż źródło dekodowania"
 
 msgid "Show Stream Info"
-msgstr "Pokaż informacje o sygnale"
+msgstr "Pokaż informacje o strumieniu"
 
 msgid "Show System Memory Info"
 msgstr "Pokaż informacje o pamięci"
@@ -9731,6 +9749,9 @@ msgstr "Pokaż ikony stanu na liście filmów"
 msgid "Show status icons in movielist"
 msgstr "Pokaż ikony stanu na liście filmów"
 
+msgid "Show stream clients"
+msgstr "Pokaż klientów strumienia"
+
 msgid "Show subservice selection"
 msgstr "Pokaż wybór podsekcji"
 
@@ -9789,7 +9810,7 @@ msgid "Show/Add Sleep Timers"
 msgstr "Pokaż/Dodaj wyłączniki czasowe"
 
 msgid "Shows advanced informations about stream"
-msgstr "Pokazuje zaawansowane informacje o sygnale"
+msgstr "Pokazuje zaawansowane informacje o strumieniu"
 
 msgid "Shows assigned ip-adresses, routingtable and nameserver"
 msgstr "Pokazuje przypisane adresy IP, tablicę routingu i serwer nazw"
@@ -10492,6 +10513,9 @@ msgid "Subtitles"
 msgstr "Napisy"
 
 msgid "Subtitles Setup"
+msgstr "Ustawienia napisów"
+
+msgid "Subtitles settings"
 msgstr "Ustawienia napisów"
 
 msgid "Success..."
@@ -11488,6 +11512,9 @@ msgstr "Przełącz proporcje obrazu..."
 
 msgid "Toggle between bouquet/epg lists"
 msgstr "Przełącz pomiędzy listami bukietów/epg"
+
+msgid "Toggle default subtitles"
+msgstr "Przełącz domyślne napisy"
 
 msgid "Tomorrow"
 msgstr "Jutro"
