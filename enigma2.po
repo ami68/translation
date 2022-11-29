@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: enigma2-HYPERION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-11-28 22:08+0100\n"
+"PO-Revision-Date: 2022-11-29 21:19+0100\n"
 "Last-Translator: ami68 & sq9 <https://zukon.pl>\n"
 "Language-Team: Polish\n"
 "Language: pl\n"
@@ -5270,8 +5270,14 @@ msgstr "Pasek informacyjny EPG"
 msgid "Infobar EPG activation"
 msgstr "Aktywacja paska informacyjnego EPG"
 
+msgid "Infobar Grid EPG"
+msgstr "Pasek info Multi EPG"
+
 msgid "Infobar Setup"
 msgstr "Ustawienia paska informacyjnego"
+
+msgid "Infobar Single EPG"
+msgstr "Pojedynczy pasek info EPG"
 
 msgid "Infobar fade-out speed"
 msgstr "Szybkość zanikania paska informacyjnego"
